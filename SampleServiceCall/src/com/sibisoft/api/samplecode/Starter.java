@@ -7,7 +7,7 @@ public class Starter {
 	/** 
 	 	****************************************
 		set following values in HttpClient
-		************GET Request Sample **********
+		****************************************
 
 	 	protocol = "http";
 		host = "[IP OR DOMAIN NAME]";
